@@ -53,7 +53,7 @@ int main(int argc, char **argv)
 */
 int promptInt(std::string message, int min, int max)
 {
-    // Code to prompt user for an int
+    // Code to prompt user for an integer
     if(message.compare("id")==0){
         std::string id;
         bool flag1 = true;
