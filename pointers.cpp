@@ -27,7 +27,7 @@ int main(int argc, char **argv)
     std::cin.getline(student.f_name, 128);
     std::cout << "Please enter the student's last name: ";
     std::cin.getline(student.l_name, 128);
-    student.n_assignments = promptInt("assignment",1,2147483647);
+    student.n_assignments = promptInt("assignment",1,134217728);
     std::cout << "\n";
     student.grades= new double[student.n_assignments];
     int i;

@@ -1,0 +1,7 @@
+Please enter the student's id number: Please enter the student's first name: Please enter the student's last name: Please enter how many assignments were graded: Sorry, I cannot understand your answer
+Please enter how many assignments were graded: Sorry, I cannot understand your answer
+Please enter how many assignments were graded: 
+Please enter grade for assignment 0: Please enter grade for assignment 1: Sorry, I cannot understand your answer
+Please enter grade for assignment 1: 
+Student: Jane Doe [123456]
+  Average grade: 95.3
